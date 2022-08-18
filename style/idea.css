@@ -20,7 +20,7 @@ body{
 }
 
 .general-idea{
-  background-image: url(/anh/idea2.jpg);
+  background-image: url(../anh/idea2.jpg);
   background-size: cover;
   background-position-y: center;
   background-repeat: no-repeat;
