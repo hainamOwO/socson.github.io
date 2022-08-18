@@ -1,0 +1,38 @@
+.idea{
+  background-color: lightblue;
+}
+p{
+  font-family: Roboto;
+}
+
+.intro{
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-left:30%;
+  margin-right: 30%;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.first{
+  margin-left:15px;
+  font-size:24px;
+  font-weight: bold;
+}
+.environment{
+  width: 100%;
+  border-radius: 30px; 
+  max-width: 350px;
+  min-width: 300px;
+}
+
+.plot{
+  color:white;
+  background-color: rgb(83, 138, 0);
+  cursor: pointer;
+  padding:10px 10px;
+}
+
+.content:hover .intro{
+  opacity: 1;
+}

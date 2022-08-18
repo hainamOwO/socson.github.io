@@ -1,0 +1,96 @@
+body{
+  height: 1000px;
+}
+
+p{
+  font-family: 'Roboto';
+}
+
+.idea{
+  background-color: lightblue;
+}
+
+body{
+  background-color: black;
+}
+.parent{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+.general-idea{
+  background-image: url(/img/idea2.jpg);
+  background-size: cover;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  text-align: center;
+  border-radius: 30px; 
+  text-decoration: none;
+  width: 50%;
+  color:black;
+}
+
+.script{
+  background-image: url(/img/script.jpg);
+  background-size: cover;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  text-align: center;
+  border-radius: 30px; 
+  text-decoration: none;
+  width: 50%;
+  color:black;
+}
+
+.possibility{
+  background-image: url(/img/possibility.jpg);
+  background-size: cover;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  text-align: center;
+  border-radius: 30px; 
+  text-decoration: none;
+  width: 50%;
+  color:black;
+}
+
+.pros-cons{
+  background-image: url(/img/can-can.jpg);
+  background-size: cover;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  text-align: center;
+  border-radius: 30px; 
+  text-decoration: none;
+  width: 50%;
+  color:black;
+}
+
+a{
+  margin-top:50px;
+}
+
+.element{
+  font-size:30px;
+  margin-top:60px;
+  
+  display: inline-block;
+}
+
+.script2{
+  background-image: url(/img/plot.jpg);
+  background-size: cover;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  text-align: center;
+  border-radius: 30px; 
+  text-decoration: none;
+  width: 50%;
+  color:black;
+}

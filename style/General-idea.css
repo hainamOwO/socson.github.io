@@ -1,0 +1,28 @@
+.idea{
+  background-color: lightblue;
+}
+
+p{
+  font-family: Roboto;
+}
+
+
+.intro{
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-left:30%;
+  margin-right: 30%;
+}
+
+.first{
+  margin-left:15px;
+  font-size:24px;
+  font-weight: bold;
+}
+.environment{
+  width: 100%;
+  border-radius: 30px; 
+  max-width: 500px;
+  min-width: 300px;
+}
+
