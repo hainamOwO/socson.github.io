@@ -20,7 +20,7 @@ body{
 }
 
 .general-idea{
-  background-image: url(/anh/idea2.jpg);
+  background-image: url(anh/idea2.jpg);
   background-size: cover;
   background-position-y: center;
   background-repeat: no-repeat;
@@ -33,7 +33,7 @@ body{
 }
 
 .script{
-  background-image: url(/anh/script.jpg);
+  background-image: url(anh/script.jpg);
   background-size: cover;
   background-position-y: center;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@ body{
 }
 
 .possibility{
-  background-image: url(/anh/possibility.jpg);
+  background-image: url(anh/possibility.jpg);
   background-size: cover;
   background-position-y: center;
   background-repeat: no-repeat;
@@ -59,7 +59,7 @@ body{
 }
 
 .pros-cons{
-  background-image: url(/anh/can-can.jpg);
+  background-image: url(anh/can-can.jpg);
   background-size: cover;
   background-position-y: center;
   background-repeat: no-repeat;
@@ -83,7 +83,7 @@ a{
 }
 
 .script2{
-  background-image: url(/anh/plot.jpg);
+  background-image: url(anh/plot.jpg);
   background-size: cover;
   background-position-y: center;
   background-repeat: no-repeat;
